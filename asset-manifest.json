@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/E-commerce-Ekart/static/css/main.875d09a3.css",
+    "main.js": "/E-commerce-Ekart/static/js/main.aaeae93f.js",
+    "static/js/453.63ddf287.chunk.js": "/E-commerce-Ekart/static/js/453.63ddf287.chunk.js",
+    "static/media/slick.svg": "/E-commerce-Ekart/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-commerce-Ekart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-commerce-Ekart/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-commerce-Ekart/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-commerce-Ekart/index.html",
+    "main.875d09a3.css.map": "/E-commerce-Ekart/static/css/main.875d09a3.css.map",
+    "main.aaeae93f.js.map": "/E-commerce-Ekart/static/js/main.aaeae93f.js.map",
+    "453.63ddf287.chunk.js.map": "/E-commerce-Ekart/static/js/453.63ddf287.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.875d09a3.css",
+    "static/js/main.aaeae93f.js"
+  ]
+}
